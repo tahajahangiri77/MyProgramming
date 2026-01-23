@@ -1,7 +1,8 @@
 package Main;
 
-public class multiplication {
+public class earthquake {
     public static void main(String[] args) {
+        
 
     }
 }
