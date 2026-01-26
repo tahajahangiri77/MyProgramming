@@ -5,8 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="2d46c897-79eb-405b-985f-a8c717c7bf64" name="Changes" comment="java assignment">
-      <change afterPath="$PROJECT_DIR$/src/main/java/helloworld.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Week_1/helloworld.java" beforeDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/training/Lasagna.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -47,7 +47,9 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Application.Lasagna.executor": "Run",
     "Application.helloworld.executor": "Run",
+    "Application.lasagna.executor": "Run",
     "Application.rock_paper_scissors.executor": "Run",
     "Application.ticket_price.executor": "Run",
     "ModuleVcsDetector.initialDetectionPerformed": "true",
@@ -146,7 +148,8 @@
       <workItem from="1768933241198" duration="1145000" />
       <workItem from="1768934445331" duration="1492000" />
       <workItem from="1768985530645" duration="14358000" />
-      <workItem from="1769198348128" duration="633000" />
+      <workItem from="1769198348128" duration="3392000" />
+      <workItem from="1769432609462" duration="3927000" />
     </task>
     <task id="LOCAL-00001" summary="Initial commit - Java assignment">
       <option name="closed" value="true" />
