@@ -51,6 +51,7 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "Application.Lasagna.executor": "Run",
+    "Application.arrays.executor": "Run",
     "Application.earthquake.executor": "Run",
     "Application.grade_calculator.executor": "Run",
     "Application.helloworld.executor": "Run",
@@ -155,7 +156,7 @@
       <workItem from="1768985530645" duration="14358000" />
       <workItem from="1769198348128" duration="3392000" />
       <workItem from="1769432609462" duration="5386000" />
-      <workItem from="1769453179773" duration="5268000" />
+      <workItem from="1769453179773" duration="5974000" />
     </task>
     <task id="LOCAL-00001" summary="Initial commit - Java assignment">
       <option name="closed" value="true" />

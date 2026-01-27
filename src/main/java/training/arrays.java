@@ -15,6 +15,9 @@ public class arrays {
         System.out.println(numbers[0]);
         System.out.println(words[1]);
 
+        for (int i = numbers.length-1; i >= 0; i--) {
+            System.out.println(numbers[i]);
+        }
 
     }
 }
