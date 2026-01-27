@@ -5,8 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="2d46c897-79eb-405b-985f-a8c717c7bf64" name="Changes" comment="java assignment">
-      <change afterPath="$PROJECT_DIR$/src/main/java/training/loops.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/training/loops.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/training/loops.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -53,6 +52,7 @@
     "Application.grade_calculator.executor": "Run",
     "Application.helloworld.executor": "Run",
     "Application.lasagna.executor": "Run",
+    "Application.loops.executor": "Run",
     "Application.rock_paper_scissors.executor": "Run",
     "Application.ticket_price.executor": "Run",
     "ModuleVcsDetector.initialDetectionPerformed": "true",
@@ -153,7 +153,7 @@
       <workItem from="1768985530645" duration="14358000" />
       <workItem from="1769198348128" duration="3392000" />
       <workItem from="1769432609462" duration="5386000" />
-      <workItem from="1769453179773" duration="7030000" />
+      <workItem from="1769453179773" duration="7353000" />
     </task>
     <task id="LOCAL-00001" summary="Initial commit - Java assignment">
       <option name="closed" value="true" />

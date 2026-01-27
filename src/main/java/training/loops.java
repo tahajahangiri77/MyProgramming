@@ -8,5 +8,11 @@ public class loops {
             System.out.println(numbers[i]);
 
         }
+
+        int index = 0;
+        while(index < numbers.length){
+            System.out.println(numbers[index]);
+            index++;
+        }
     }
 }
