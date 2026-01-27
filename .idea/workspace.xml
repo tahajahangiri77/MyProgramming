@@ -5,8 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="2d46c897-79eb-405b-985f-a8c717c7bf64" name="Changes" comment="java assignment">
+      <change afterPath="$PROJECT_DIR$/src/main/java/training/arrays.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/Week_3/grade_calculator.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Week_3/grade_calculator.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Week_3/rock_paper_scissors.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Week_3/rock_paper_scissors.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/Week_3/ticket_price.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Week_3/ticket_price.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -153,7 +155,7 @@
       <workItem from="1768985530645" duration="14358000" />
       <workItem from="1769198348128" duration="3392000" />
       <workItem from="1769432609462" duration="5386000" />
-      <workItem from="1769453179773" duration="4323000" />
+      <workItem from="1769453179773" duration="5268000" />
     </task>
     <task id="LOCAL-00001" summary="Initial commit - Java assignment">
       <option name="closed" value="true" />
