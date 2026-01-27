@@ -14,5 +14,12 @@ public class loops {
             System.out.println(numbers[index]);
             index++;
         }
+
+        int index1 = 0;
+        do{
+            System.out.println(numbers[index1]);
+            index1++;
+        }
+        while (index1 < numbers.length);
     }
 }
