@@ -5,9 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="2d46c897-79eb-405b-985f-a8c717c7bf64" name="Changes" comment="java assignment">
-      <change afterPath="$PROJECT_DIR$/src/main/java/Week_4/FinancialTransaction.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Week_5/AirQualityChart.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Week_1/helloworld.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Week_1/helloworld.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -48,6 +48,7 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Application.AirQualityChart.executor": "Run",
     "Application.FinancialTransaction.executor": "Run",
     "Application.Lasagna.executor": "Run",
     "Application.arrays.executor": "Run",
@@ -58,6 +59,8 @@
     "Application.loops.executor": "Run",
     "Application.rock_paper_scissors.executor": "Run",
     "Application.ticket_price.executor": "Run",
+    "Application.training.executor": "Run",
+    "Application.training1.executor": "Run",
     "ModuleVcsDetector.initialDetectionPerformed": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252": "true",
@@ -73,6 +76,7 @@
     "project.structure.last.edited": "Artifacts",
     "project.structure.proportion": "0.0",
     "project.structure.side.proportion": "0.2",
+    "settings.editor.selected.configurable": "preferences.pluginManager",
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
@@ -157,7 +161,10 @@
       <workItem from="1769198348128" duration="3392000" />
       <workItem from="1769432609462" duration="5386000" />
       <workItem from="1769453179773" duration="7594000" />
-      <workItem from="1770192823702" duration="5869000" />
+      <workItem from="1770192823702" duration="7718000" />
+      <workItem from="1770797263408" duration="467000" />
+      <workItem from="1770797750945" duration="10055000" />
+      <workItem from="1771402410591" duration="694000" />
     </task>
     <task id="LOCAL-00001" summary="Initial commit - Java assignment">
       <option name="closed" value="true" />
