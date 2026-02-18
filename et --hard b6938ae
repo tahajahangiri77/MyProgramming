@@ -1,0 +1,39 @@
+[33m2160700[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmain[m[33m, [m[1;31morigin/main[m[33m, [m[1;31morigin/HEAD[m[33m)[m HEAD@{0}: rebase (finish): returning to refs/heads/main
+[33m2160700[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmain[m[33m, [m[1;31morigin/main[m[33m, [m[1;31morigin/HEAD[m[33m)[m HEAD@{1}: pull origin main --rebase (start): checkout 216070016bef935d9a5beab3acea8d4d23127f93
+[33mb6938ae[m HEAD@{2}: commit: Adding Exercises to my git
+[33m8fe422e[m HEAD@{3}: pull origin main: Merge made by the 'ort' strategy.
+[33md069801[m HEAD@{4}: commit: Adding the exercise of week 5
+[33mc55f65e[m HEAD@{5}: commit: applied the financial transaction planner with arraylist through coaching excercise
+[33mabb00cb[m HEAD@{6}: commit: doing the excercise with do-while loop
+[33m2f1e095[m HEAD@{7}: commit: doing the excercise with while loop
+[33ma1604f4[m HEAD@{8}: commit: completing the Udacity loop excercise
+[33m4c3d61a[m HEAD@{9}: commit: feat: doing the excercise with loop
+[33md5fd2f9[m HEAD@{10}: commit: completing the array excerise in Udacity
+[33m8a5005d[m HEAD@{11}: commit: feat: fixing the package name
+[33m95c744e[m HEAD@{12}: commit: feat: finalize the conditions for the grade calculator
+[33m68df2cc[m HEAD@{13}: commit: feat: finalize ticket_price class with conditional discount checks
+[33m66f65f1[m HEAD@{14}: commit: defining the conditions for discount
+[33m98ec73e[m HEAD@{15}: commit: complete earthquake categorization and safety message
+[33mf13f76b[m HEAD@{16}: commit: feat: add earthquake magnitude classification logic
+[33m7bc5b67[m HEAD@{17}: commit: completing the training
+[33mf6ae6d6[m HEAD@{18}: commit: feat: solve Lasagna excersise from excercism
+[33m29a75f8[m HEAD@{19}: commit: changing the file directory
+[33m500c99e[m HEAD@{20}: commit: Move Week folders back to src directory
+[33mf8af398[m HEAD@{21}: commit: Move Week folders to root directory
+[33m572e750[m HEAD@{22}: commit: Final cleanup: removed ghost folder MyProgramming
+[33md5944ba[m HEAD@{23}: commit: Rename package to Week_3
+[33macffda3[m HEAD@{24}: commit (merge): Fix merge conflict by removing vcs.xml
+[33md694ce5[m[33m ([m[1;32mmaster[m[33m)[m HEAD@{25}: checkout: moving from master to main
+[33md694ce5[m[33m ([m[1;32mmaster[m[33m)[m HEAD@{26}: checkout: moving from master to master
+[33md694ce5[m[33m ([m[1;32mmaster[m[33m)[m HEAD@{27}: branch: Reset to origin/master
+[33md694ce5[m[33m ([m[1;32mmaster[m[33m)[m HEAD@{28}: checkout: moving from main to master
+[33md694ce5[m[33m ([m[1;32mmaster[m[33m)[m HEAD@{29}: commit: java assignment
+[33m40cb2a0[m HEAD@{30}: commit: Initial commit - Java assignment
+[33ma7508f8[m HEAD@{31}: commit: Initial commit - Java assignment
+[33m0e26c07[m HEAD@{32}: pull origin main --rebase (finish): returning to refs/heads/main
+[33m0e26c07[m HEAD@{33}: pull origin main --rebase (pick): Initial commit - Java assignment
+[33m3b71fd7[m HEAD@{34}: pull origin main --rebase (pick): Initial commit - Java assignment
+[33m1e10fe1[m HEAD@{35}: pull origin main --rebase (start): checkout 1e10fe142dde07c4a2467e4e7d970e704f2f5ab5
+[33m3cd7874[m HEAD@{36}: Branch: renamed refs/heads/master to refs/heads/main
+[33m3cd7874[m HEAD@{38}: commit: Initial commit - Java assignment
+[33m70049cf[m HEAD@{39}: commit (initial): Initial commit - Java assignment
